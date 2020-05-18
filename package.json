@@ -4,8 +4,8 @@
   "description": "nodeApp for internship",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "server": "nodemon server.js"
+    "start": "node server.js",
+    "server": "node server.js"
   },
   "author": "Keerthivasan",
   "license": "MIT",
